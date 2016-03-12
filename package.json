@@ -1,0 +1,30 @@
+{
+  "name": "cm423",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasRodolfo/cm42.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LucasRodolfo/cm42/issues"
+  },
+  "homepage": "https://github.com/LucasRodolfo/cm42#readme",
+  "description": "",
+  "devDependencies": {
+    "babel-core": "^6.3.13",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "webpack": "^1.12.14"
+  },
+  "dependencies": {
+    "react-bootstrap-table": "^1.6.2",
+    "react-json-table": "0.0.3"
+  }
+}
